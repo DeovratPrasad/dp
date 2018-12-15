@@ -1147,7 +1147,7 @@ header .logo a {
 	color: transparent;
 	position: absolute;
 	right: 8px;
-	top: 70%;
+	top: 50%;
 	bottom: auto;
 	left: auto;
 	-moz-transition: background 0.2s ease-in-out;
