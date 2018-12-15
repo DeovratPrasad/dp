@@ -1140,14 +1140,14 @@ header .logo a {
 	display: block;
 	background-color: #FFFFFF;
 	width: 24px;
-	height: 12px;
+	height: 3px;
 	margin-top: -1.5px;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
 	position: absolute;
 	right: 8px;
-	top: 50%;
+	top: 70%;
 	bottom: auto;
 	left: auto;
 	-moz-transition: background 0.2s ease-in-out;
