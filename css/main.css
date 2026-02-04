@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/t318gyr_cosmo_agn.png) no-repeat center bottom;
+	background: #151515 url(../images/xray_emis_mpg_mhd_40.png) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -2597,3 +2597,4 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
